@@ -10,3 +10,14 @@
     left: 6.7em;
 }
 
+.pawprint {
+    position: fixed;
+    top: 3em;
+    left: 4.1em;
+}
+
+.stick-corgi {
+    position: sticky;
+    left: 10px;
+}
+
